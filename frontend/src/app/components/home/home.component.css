@@ -1,0 +1,7 @@
+.img-product {
+    cursor: pointer;
+}
+
+.disabled {
+    cursor: not-allowed;
+}
